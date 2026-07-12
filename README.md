@@ -48,7 +48,7 @@ The dashboard transforms raw sales data into clear and interactive reports that 
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png
+![Dashboard](Dashboard.png)
 ---
 
 ## 💡 Business Insights
